@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+
+.navbar {
+  background-color: white;
+  height: 6rem;
+}
+
+.navbar h1 {
+  color: red;
+  font-size: 25px;
+}
+
+.headerlinks {
+  color: blue;
+  text-decoration: none;
+}
+
+.hero {
+  background-color: beige;
+  min-height: calc(100vh - 6rem);
+}
+
+.hero p {
+  color: green;
+}
+
+.hero h2 {
+  color: coral;
+}
+
+.button {
+  color: grey;
+  background: yellowgreen;
+}
